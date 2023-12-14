@@ -34,7 +34,7 @@ Flaviana Ferraz é uma sertaneja de Pernambuco morando no sertão da Paraiba, fo
 
 ## 🧠 Contexto
 
-Projeto Javascript desenvolvido durante o curso Frontend da Reprograma, em que desenvolvemos um mecanismo de busca de perfis do Github, assim como, acesso aos repositórios daquele perfil, utilizando o acesso à API do Github, a qual é acessada através do método fetch, try/catch e async/await.
+Projeto Javascript desenvolvido durante o curso Frontend da Reprograma, em que desenvolvemos um mecanismo de busca de perfis do Github, assim como, acesso aos repositórios daquele perfil, utilizando o acesso à API do Github, a qual é requisitada através dos métodos fetch, try/catch e async/await.
 
 ![image](https://github.com/FlavianaFXT/GitHubSearch/assets/113718720/c5c86684-979e-479c-b261-089714605e71)
 
